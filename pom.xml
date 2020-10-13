@@ -52,7 +52,7 @@
 
     <properties>
         <!-- This project properties -->
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <jackson-databind.version>2.9.7</jackson-databind.version>
         <guava.version>23.0</guava.version>
         <jsonassert.version>1.2.3</jsonassert.version>
