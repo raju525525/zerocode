@@ -69,7 +69,7 @@
         <commons-io.version>2.4</commons-io.version>
         <micro-simulator.version>1.1.10</micro-simulator.version>
         <httpclient.version>4.5</httpclient.version>
-        <h2.db.version>1.4.191</h2.db.version>
+        <h2.db.version>2.0.206</h2.db.version>
         <extentreports.version>3.1.3</extentreports.version>
 
         <!-- Maven plugin build related  -->
